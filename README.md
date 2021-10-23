@@ -1,6 +1,7 @@
 # pandas-challenge
 
 FINAL ANALYSIS: 
+
     Male players make up most of the demographic, accounting for 84% of all players
     
     The 20-24 age group purchased the most games and had the highest total revenue brought in
